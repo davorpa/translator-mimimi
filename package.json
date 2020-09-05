@@ -1,6 +1,6 @@
 {
   "homepage": "./",
-  "name": "exercise1",
+  "name": "translator-mimimi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
